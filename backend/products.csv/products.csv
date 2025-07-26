@@ -1,0 +1,6 @@
+product_id,name,category,price,stock
+1,Laptop,Electronics,75000,10
+2,Keyboard,Electronics,1500,50
+3,Book,Education,499,100
+4,Mouse,Electronics,700,40
+5,Notebook,Education,120,200
